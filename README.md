@@ -100,7 +100,7 @@ generate_with_steering(prompt, hf_model, tokenizer, sae, target_feature=5021, st
 
 ```
 
-##Contact
+## Contact
 
 **Author:** Malhar Udmale
 **Institution:** Indian Institute of Information Technology, Allahabad
